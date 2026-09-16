@@ -1,16 +1,43 @@
-# flutter_application_berita_portal
+# Portal Berita Flutter
 
-A new Flutter project.
+Aplikasi portal berita berbasis Flutter yang menampilkan kumpulan berita terkini secara mobile.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Menampilkan daftar berita terbaru
+- Melihat detail berita
+- (Tambahkan fitur lain sesuai aplikasi kamu, misal: kategori berita, pencarian, bookmark, dll)
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- (Tambahkan jika ada: API tertentu, package state management, database lokal, dll)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Instalasi & Menjalankan Project
+
+### Prasyarat
+- Sudah terinstall [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Sudah terinstall Android Studio atau Visual Studio Code
+- Emulator Android/iOS atau perangkat fisik yang terhubung
+
+### Langkah-langkah
+
+1. Clone repository ini
+git clone https://github.com/Rafidbinmuchtar/portal_berita_flutter.git
+
+2. Masuk ke folder project
+3. Install semua dependencies
+4. Jalankan aplikasi
+5. ## Struktur Folder
+   ## Struktur Folder
+
+lib/ # Kode utama aplikasi (UI, logic)
+android/ # Konfigurasi untuk platform Android
+ios/ # Konfigurasi untuk platform iOS
+web/ # Konfigurasi untuk platform Web
+
+
+## Kontributor
+
+- Rafid Binmuchtar
